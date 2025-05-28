@@ -1,0 +1,22 @@
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\bin\Debug\net8.0\TheAuctionHouse.Common.deps.json
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\bin\Debug\net8.0\TheAuctionHouse.Common.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\bin\Debug\net8.0\TheAuctionHouse.Common.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.AssemblyInfoInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.AssemblyInfo.cs
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.csproj.CoreCompileInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\obj\Debug\net8.0\refint\TheAuctionHouse.Common.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Common\obj\Debug\net8.0\ref\TheAuctionHouse.Common.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\bin\Debug\net8.0\TheAuctionHouse.Common.deps.json
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\bin\Debug\net8.0\TheAuctionHouse.Common.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\bin\Debug\net8.0\TheAuctionHouse.Common.pdb
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.AssemblyInfoInputs.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.AssemblyInfo.cs
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.csproj.CoreCompileInputs.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\obj\Debug\net8.0\refint\TheAuctionHouse.Common.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\obj\Debug\net8.0\TheAuctionHouse.Common.pdb
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Common\obj\Debug\net8.0\ref\TheAuctionHouse.Common.dll

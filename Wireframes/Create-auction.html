@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Auction House-Create Auction</title>
+    <link rel="stylesheet" href="Style.css" />
+  </head>
+  <body>
+    <nav>
+      <a href="Dashboard.html">Home</a>
+      <a href="Profile.html">Profile</a>
+      <a href="Wallet.html">Wallet</a>
+      <a href="Assets.html">Assets</a>
+      <a href="Create-auction.html">Create Auction</a>
+      <a href="Auction.html">Auctions</a>
+    </nav>
+
+    <div class="container">
+      <h2 style="text-align: center">Create a New Auction</h2>
+      <form>
+        <div class="form-group">
+          <label>Select Asset:</label>
+          <select>
+            <option>Old Laptop - $400</option>
+            <option>Chair - $100</option></select
+          ><br /><br />
+        </div>
+        <div class="form-group">
+          <label>Reserve Price:</label>
+          <input
+            type="number"
+            placeholder="Enter Reserve Price"
+            min="1"
+            max="9999"
+          /><br /><br />
+        </div>
+        <div class="form-group">
+          <label>Incremental Value:</label>
+          <input
+            type="number"
+            placeholder="Enter Incremental Value"
+            min="1"
+            max="999"
+          /><br /><br />
+        </div>
+        <div class="form-group">
+          <label>Expiration Time:</label>
+          <input
+            type="number"
+            placeholder="Enter Expiration Time in Hours"
+            min="1"
+            max="360"
+          /><br /><br />
+        </div>
+        <a href="Auction.html" class="button">Create Auction</a>
+      </form>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\bin\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.deps.json
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\bin\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.runtimeconfig.json
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\bin\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\bin\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.pdb
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.pdb
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.csproj.AssemblyReference.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.AssemblyInfoInputs.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.AssemblyInfo.cs
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.csproj.CoreCompileInputs.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAucti.F9452E3E.Up2Date
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\refint\TheAuctionHouse.Data.EFCore.SQLite.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.pdb
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\TheAuctionHouse.Data.EFCore.SQLite.genruntimeconfig.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Data.EFCore.SQLite\obj\Debug\net8.0\ref\TheAuctionHouse.Data.EFCore.SQLite.dll

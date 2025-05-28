@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Withdraw Money - Auction House Wallet</title>
+    <link rel="stylesheet" href="Style.css" />
+  </head>
+  <body>
+    <nav>
+      <a href="Dashboard.html">Home</a>
+      <a href="Profile.html">Profile</a>
+      <a href="Wallet.html">Wallet</a>
+      <a href="Assets.html">Assets</a>
+      <a href="Auction.html">Auctions</a>
+    </nav>
+
+    <div class="container">
+      <h2>Withdraw Money</h2>
+      <form>
+        <p>Select Withdrawal Method:</p>
+        <div class="form-group">
+          <input
+            type="radio"
+            id="debit"
+            name="withdrawal_method"
+            value="Debit Card"
+          />
+          <label for="debit">Debit Card</label>
+        </div>
+        <div class="form-group">
+          <input
+            type="radio"
+            id="credit"
+            name="withdrawal_method"
+            value="Credit Card"
+          />
+          <label for="credit">Credit Card</label>
+        </div>
+        <div class="form-group">
+          <input
+            type="radio"
+            id="bank"
+            name="withdrawal_method"
+            value="Bank Transfer"
+          />
+          <label for="bank">Bank Transfer</label>
+        </div>
+        <div class="form-group">
+          <input
+            type="radio"
+            id="paypal"
+            name="withdrawal_method"
+            value="PayPal"
+          />
+          <label for="paypal">PayPal</label>
+        </div>
+        <div class="form-group">
+          <input type="radio" id="upi" name="withdrawal_method" value="UPI" />
+          <label for="upi">UPI</label>
+        </div>
+        <div class="form-group">
+          <label for="amount">Enter Amount:</label>
+          <input type="text" id="amount" name="amount" required />
+        </div>
+        <a href="Wallet.html" type="submit" class="button">Withdraw</a>
+      </form>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TheAuctionHouse.Domain.Services/1.0.0": {
+        "dependencies": {
+          "TheAuctionHouse.Domain.DataContracts": "1.0.0",
+          "TheAuctionHouse.Domain.Entities": "1.0.0",
+          "TheAuctionHouse.Domain.ServiceContracts": "1.0.0"
+        },
+        "runtime": {
+          "TheAuctionHouse.Domain.Services.dll": {}
+        }
+      },
+      "TheAuctionHouse.Common/1.0.0": {
+        "runtime": {
+          "TheAuctionHouse.Common.dll": {}
+        }
+      },
+      "TheAuctionHouse.Domain.DataContracts/1.0.0": {
+        "dependencies": {
+          "TheAuctionHouse.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TheAuctionHouse.Domain.DataContracts.dll": {}
+        }
+      },
+      "TheAuctionHouse.Domain.Entities/1.0.0": {
+        "runtime": {
+          "TheAuctionHouse.Domain.Entities.dll": {}
+        }
+      },
+      "TheAuctionHouse.Domain.ServiceContracts/1.0.0": {
+        "dependencies": {
+          "TheAuctionHouse.Common": "1.0.0"
+        },
+        "runtime": {
+          "TheAuctionHouse.Domain.ServiceContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheAuctionHouse.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAuctionHouse.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAuctionHouse.Domain.DataContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAuctionHouse.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAuctionHouse.Domain.ServiceContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Add Money - Auction House Wallet</title>
+    <link rel="stylesheet" href="Style.css" />
+  </head>
+  <body>
+    <nav>
+      <a href="Dashboard.html">Home</a>
+      <a href="Profile.html">Profile</a>
+      <a href="Wallet.html">Wallet</a>
+      <a href="Assets.html">Assets</a>
+      <a href="Auction.html">Auctions</a>
+    </nav>
+
+    <div class="container">
+      <h2>Add Money to Wallet</h2>
+      <div>
+        <p>Select Payment Method:</p>
+        <input
+          type="radio"
+          id="debit"
+          name="payment_method"
+          value="Debit Card"
+        />
+        <label for="debit">Debit Card</label><br />
+        <input
+          type="radio"
+          id="credit"
+          name="payment_method"
+          value="Credit Card"
+        />
+        <label for="credit">Credit Card</label><br />
+        <input
+          type="radio"
+          id="bank"
+          name="payment_method"
+          value="Bank Transfer"
+        />
+        <label for="bank">Bank Transfer</label><br /><br />
+
+        <label for="amount">Enter Amount:</label>
+        <input type="text" id="amount" name="amount" required /><br /><br />
+
+        <a href="Wallet.html" type="submit" class="button">Proceed</a>
+      </div>
+    </div>
+  </body>
+</html>

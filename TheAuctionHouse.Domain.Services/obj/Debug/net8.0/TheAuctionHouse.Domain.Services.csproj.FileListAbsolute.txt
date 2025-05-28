@@ -1,0 +1,26 @@
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.Services.deps.json
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.Services.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.Services.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Common.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.ServiceContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Domain.ServiceContracts.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\bin\Debug\net8.0\TheAuctionHouse.Common.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.AssemblyInfo.cs
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAucti.7BF787E8.Up2Date
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\refint\TheAuctionHouse.Domain.Services.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\ref\TheAuctionHouse.Domain.Services.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.csproj.AssemblyReference.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.AssemblyInfoInputs.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.AssemblyInfo.cs
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.Services\obj\Debug\net8.0\TheAuctionHouse.Domain.Services.csproj.CoreCompileInputs.cache

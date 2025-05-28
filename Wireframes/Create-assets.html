@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Auction House-CreateAssets</title>
+    <link rel="stylesheet" href="Style.css" />
+  </head>
+  <body>
+    <nav>
+      <a href="Dashboard.html">Home</a>
+      <a href="Profile.html">Profile</a>
+      <a href="Wallet.html">Wallet</a>
+      <a href="Assets.html">Assets</a>
+      <a href="Create-auction.html">Create Auction</a>
+      <a href="Auction.html">Auctions</a>
+    </nav>
+
+    <div class="container">
+      <h2 style="text-align: center">Create New Asset</h2>
+      <form id="assetForm">
+        <div class="form-group">
+          <label>Title:</label>
+          <input
+            type="text"
+            placeholder="Enter Title"
+            id="title"
+            minlength="10"
+            maxlength="150"
+            required
+          /><br /><br />
+        </div>
+        <div class="form-group">
+          <label>Description:</label>
+          <textarea
+            id="description"
+            placeholder="Enter Description"
+            minlength="10"
+            maxlength="1000"
+            required
+          ></textarea
+          ><br /><br />
+        </div>
+        <div class="form-group">
+          <label>Retail Value ($):</label>
+          <input
+            type="number"
+            placeholder="Enter Retail Value"
+            id="retailValue"
+            min="1"
+            required
+          /><br /><br />
+        </div>
+        <a href="Assets.html" class="button" type="submit">Create Asset</a>
+      </form>
+    </div>
+  </body>
+</html>

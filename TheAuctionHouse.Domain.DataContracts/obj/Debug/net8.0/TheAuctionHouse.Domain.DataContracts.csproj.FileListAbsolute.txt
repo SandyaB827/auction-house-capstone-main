@@ -1,0 +1,30 @@
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.csproj.AssemblyReference.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.AssemblyInfoInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.AssemblyInfo.cs
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.deps.json
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAucti.E1551ABB.Up2Date
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\refint\TheAuctionHouse.Domain.DataContracts.dll
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.pdb
+C:\Users\LB20004122\source\repos\Capstone Projects\TheAuctionHouse\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\ref\TheAuctionHouse.Domain.DataContracts.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.deps.json
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.pdb
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\bin\Debug\net8.0\TheAuctionHouse.Domain.Entities.pdb
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.csproj.AssemblyReference.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.AssemblyInfoInputs.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.AssemblyInfo.cs
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.csproj.CoreCompileInputs.cache
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAucti.E1551ABB.Up2Date
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\refint\TheAuctionHouse.Domain.DataContracts.dll
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\TheAuctionHouse.Domain.DataContracts.pdb
+D:\sandya ofc training\cs\auction-house-capstone-main\TheAuctionHouse.Domain.DataContracts\obj\Debug\net8.0\ref\TheAuctionHouse.Domain.DataContracts.dll
